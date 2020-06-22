@@ -150,13 +150,10 @@ footer {
 
 .footer-list {
   float: right;
-  style: none;
 }
 
 .footer-list li {
   padding-bottom: 20px;
-}
-
-li {
   list-style: none;
 }
+
