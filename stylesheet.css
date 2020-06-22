@@ -110,7 +110,25 @@ header {
 }
 
 /* contact form - kontak */
+.contact-form section-title {
+  font-size: 15px;
+  border-bottom: 2px solid #dee7ec;
+  margin-top: 50px;
+}
 
+input, textarea {
+ padding: 20px;
+ margin-bottom: 30px;
+ margin-top: 10px;
+ width: 400px;
+ font-size: 18px;
+ border: 1px solid #dee7ec;
+}
+
+.contact-submit {
+  color: #889eab;
+  background-color: #dee7ec;
+}
 /* extra page - gabung */
 
 /* footer */
