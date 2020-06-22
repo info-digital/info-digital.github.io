@@ -1,6 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.clear {
+  clear: left;
 }
 
 .container {
@@ -55,8 +67,6 @@ header {
   color: rgb(29, 139, 139);
 }
 
-
-
 .top-wrapper {
   width : 100%;
   padding: 140px 0 140px 0;
@@ -80,11 +90,23 @@ header {
 
 /* content - profil anggota */
 .profil-wrapper {
-  height: 500px;
   padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
   background-color: #f7f7f7;
   text-align: center;
 }
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
 .anggota {
   float: left;
   width: 25%;
@@ -96,7 +118,7 @@ header {
 
 .anggota-icon p {
   position: absolute;
-  top: 90px;
+  top: 44%;
   width: 100%;
   color: white;
 }
@@ -104,7 +126,7 @@ header {
 .txt-contents {
   width: 80%;
   display: inline-block;
-  margin-top: 20px;
+  margin-top: 15px;
   font-size: 15px;
   color: #b3aeb5;
 }
