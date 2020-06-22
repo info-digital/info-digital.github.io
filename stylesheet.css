@@ -87,6 +87,14 @@ header {
   font-size: 25px;
 }
 
+/*CSS menu-icon*/
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
 
 /* content - profil anggota */
 .profil-wrapper {
