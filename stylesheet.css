@@ -21,7 +21,7 @@ header {
 
 .logo {
   width: 220px;
-  margin: 5px 0px;
+  margin: 5px 30px;
 }
 
 .header-left {
@@ -30,12 +30,13 @@ header {
 
 .header-right {
   float: right;
+  margin-right : 30px;
 }
 
 .header-right li {
 	float: left;
 	list-style: none;
-	margin-left: 30px;
+	margin-left: 20px;
 }
 
 .header-right li a {
