@@ -135,3 +135,16 @@ input, textarea {
 /* extra page - gabung */
 
 /* footer */
+footer img{
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+/* Tambahkan CSS untuk tag <footer> */
+footer {
+  padding-top: 30px;
+}
