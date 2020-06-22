@@ -115,8 +115,7 @@ header {
   border-bottom: 2px solid #dee7ec;
   margin-top: 50px;
   text-align: center;
-  width: 100%;
-  margin: 0 auto;
+  margin: 0px 300px;
 }
 
 input, textarea {
