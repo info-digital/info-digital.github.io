@@ -58,6 +58,7 @@ header {
 
 
 .top-wrapper {
+  width : 100%;
   padding: 140px 0 140px 0;
   background-image: url("background_header.jpg");
   background-size: cover;
