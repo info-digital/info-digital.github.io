@@ -149,6 +149,7 @@ footer {
 
 .footer-list {
   float: right;
+  style: none;
 }
 
 .footer-list li {
