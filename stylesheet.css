@@ -114,6 +114,7 @@ header {
   font-size: 15px;
   border-bottom: 2px solid #dee7ec;
   margin-top: 50px;
+  text-align: center;
 }
 
 input, textarea {
@@ -123,11 +124,13 @@ input, textarea {
  width: 400px;
  font-size: 18px;
  border: 1px solid #dee7ec;
+ text-align: center;
 }
 
 .contact-submit {
   color: #889eab;
   background-color: #dee7ec;
+  text-align: center;
 }
 /* extra page - gabung */
 
