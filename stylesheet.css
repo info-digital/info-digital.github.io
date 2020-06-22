@@ -116,6 +116,7 @@ header {
   margin-top: 50px;
   text-align: center;
   width: 100%;
+  margin: 0 auto;
 }
 
 input, textarea {
