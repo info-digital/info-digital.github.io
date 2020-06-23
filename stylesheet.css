@@ -9,6 +9,10 @@ body {
   margin: 0 auto;
 }
 
+.main {
+  padding: 100px 80px;
+}
+
 /*header*/
 header {
   height: 65px;
