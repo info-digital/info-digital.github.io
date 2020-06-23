@@ -32,7 +32,6 @@ header {
 
 .header-right {
   float: right;
-	padding-top: 20px;
 }
 
 .header-right li {
@@ -46,7 +45,7 @@ header {
 	color: white;
 	
 	text-decoration: none;
-	line-height: 30px;
+	line-height: 65px;
  	display: block;
  	transition: all 0.5s;
  	font-size: 20px;
