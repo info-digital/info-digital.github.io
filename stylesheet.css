@@ -137,7 +137,7 @@ header {
 }
 
 /* contact form - kontak */
-.contact {
+.contact-form {
   margin-bottom: 80px;
   margin-top: 90px;
   clear: both;
@@ -154,21 +154,6 @@ header {
  
 }
 
-.contact-form {
-  padding: 50px 40px;
-  float: left;
-}
-
-.contact-container li {
- float: right;
- text-align: left;
- width: fit-container;
- list-style: none;
-}
-	
-.fa {
- margin-right: 10px;
-}
 	
 input, textarea {
  padding: 20px;
