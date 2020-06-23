@@ -18,16 +18,15 @@
   }
 
 /*CSS Responsive - Footer */
- footer {
+ .footer {
   text-align: center;
-   width: 100%;
   }
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px ) {
 /*CSS Responsive - Header*/
   .top-wrapper {
-    text-align : left;
+    text-align: left;
   }
   
   .header-right {
@@ -63,12 +62,5 @@
   .footer {
    text-align: center;
   }
-  
-  .footer-logo {
-  text-align: center;
-  }
-  
-  .footer-list {
-  text-align: center;
-  }
+
 }
