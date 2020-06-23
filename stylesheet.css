@@ -20,8 +20,8 @@ header {
 }
 
 .logo {
-  width: 220px;
-  margin: 5px 30px;
+  width: 120px;
+  margin-top: 5px;
 }
 
 .header-left {
@@ -30,7 +30,7 @@ header {
 
 .header-right {
   float: right;
-  margin-right : 30px;
+  margin-right : -25px;
 }
 
 .header-right li {
@@ -42,12 +42,12 @@ header {
 .header-right li a {
 	color: white;
 	text-decoration: none;
-	line-height: 32px;
+	line-height: 65px;
   	margin-left: 10px;
  	display: block;
  	transition: all 0.5s;
  	font-size: 20px;
- 	padding: 0 10px;
+ 	padding: 0 25px;
 }
 
 .header-right a:hover {
