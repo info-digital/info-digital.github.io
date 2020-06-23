@@ -9,10 +9,6 @@ body {
   margin: 0 auto;
 }
 
-.main {
-  padding: 100px 80px;
-}
-
 /*header*/
 header {
   height: 65px;
@@ -139,7 +135,7 @@ header {
 }
 
 .contact-form {
-  padding-top: 100px;
+  padding: 100px 80px;
 }
 
 input, textarea {
