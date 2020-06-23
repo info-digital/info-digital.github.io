@@ -11,6 +11,7 @@ body {
 
 /*header*/
 header {
+	padding: 10px 30px ;
   height: 65px;
   width: 100%;
   background-color: rgb(29, 139, 139, 0.9);
@@ -20,17 +21,19 @@ header {
 }
 
 .logo {
-  width: 130px;
-  margin-top: 20px;
+  width: 170px;
+ 
 }
 
 .header-left {
   float: left;
+  
 }
 
 .header-right {
   float: right;
-  margin-right : 10px;
+  margin-top: 20px;
+  margin-right : 30px;
 }
 
 .header-right li {
@@ -132,8 +135,6 @@ header {
   clear: both;
   color: #44454f;
   padding: 10%;
-  height: 200px;
-  width: 50%;
 }
 
 .section-title {
