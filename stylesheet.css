@@ -11,7 +11,7 @@ body {
 
 /*header*/
 header {
-  padding: 10% ;
+  padding: 10px 30px ;
   height: 65px;
   width: 100%;
   background-color: rgb(29, 139, 139, 0.9);
@@ -43,7 +43,7 @@ header {
 	color: white;
 	text-decoration: none;
 	line-height: 10px;
-  	margin-left: 10px;
+  	margin-left: 5px;
  	display: block;
  	transition: all 0.5s;
  	font-size: 20px;
@@ -133,6 +133,7 @@ header {
   clear: both;
   color: #44454f;
   padding: 10%;
+  width: fit-content;
 }
 
 .section-title {
@@ -151,6 +152,8 @@ header {
 
 .contact-container {
  float: right;
+ list-style: none;
+ text-align: left;
 }
 	
 .fa {
