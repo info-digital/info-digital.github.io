@@ -151,10 +151,12 @@ header {
 
 .contact-container {
  float: right;
+}
 	
 .fa {
  margin-right: 10px;
-
+}
+	
 input, textarea {
  padding: 20px;
  margin-bottom: 30px;
