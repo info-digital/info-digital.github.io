@@ -128,8 +128,8 @@ header {
 
 /* contact form - kontak */
 .section-title {
-  font-size: 28px;
   border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
 }
@@ -150,6 +150,7 @@ input, textarea {
 .contact-submit {
   color: #889eab;
   background-color: #dee7ec;
+  text-align: center;
 }
 
 /* extra page - gabung */
