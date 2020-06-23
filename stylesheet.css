@@ -52,11 +52,6 @@ header {
  	
 }
 
-.header-right a:hover {
-  background-color: white;
-  color: rgb(29, 139, 139);
-}
-
 .menu-icon {
   color: white;
   float: right;
