@@ -51,3 +51,7 @@
 /*CSS Responsive - Kontak Form*/
 
 /*CSS Responsive - Footer */
+footer {
+  text-align: center;
+  width: 100%;
+}
