@@ -1,4 +1,7 @@
 /* Untuk Tablet */
+/*CSS Responsive - Header*/
+
+/*CSS Responsive - profil anggota */
 @media all and (max-width: 1000px) {
   .anggota {
     width: 50%;
@@ -7,32 +10,23 @@
   .top-wrapper h1 {
     font-size: 32px;
   }
-  
-  .heading h2 {
-    font-size: 20px;
-  }
 }
 
+/*CSS Responsive - Kontak Form*/
+
+/*CSS Responsive - Footer */
+
 /* Untuk Smartphone */
+/*CSS Responsive - Header*/
+
+/*CSS Responsive - profil anggota */
 @media all and (max-width: 670px) {
   .anggota {
     width: 100%;
   }
   
-  footer {
-    text-align: center;
-  }
-  
   .top-wrapper {
     text-align: left;
-  }
-  
-  .header-right {
-    display: none;
-  }
-  
-  .menu-icon {
-    display: block;
   }
   
   .top-wrapper h1 {
@@ -45,3 +39,7 @@
     line-height: 20px;
   }
 }
+
+/*CSS Responsive - Kontak Form*/
+
+/*CSS Responsive - Footer */
