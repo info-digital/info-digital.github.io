@@ -11,7 +11,8 @@ body {
 
 /*header*/
 header {
-  height: 50px;
+  padding: 10px 30px ;
+  height: 65px;
   width: 100%;
   background-color: rgb(29, 139, 139, 0.9);
   position : fixed;
@@ -20,7 +21,7 @@ header {
 }
 
 .logo {
-  width: 150px;
+  width: 170px;
  
 }
 
@@ -42,7 +43,7 @@ header {
 	color: white;
 	text-decoration: none;
 	line-height: 10px;
-  	margin-left: 10px;
+  	margin-left: 5px;
  	display: block;
  	transition: all 0.5s;
  	font-size: 20px;
@@ -132,9 +133,10 @@ header {
   clear: both;
   color: #44454f;
   padding: 10%;
+  width: fit-content;
 }
 
-.section-title {
+.contact h3 {
   border-bottom: 2px solid #dee7ec;
   font-size: 28px;
   padding-bottom: 15px;
@@ -150,6 +152,8 @@ header {
 
 .contact-container {
  float: right;
+ list-style: none;
+ text-align: left;
 }
 	
 .fa {
