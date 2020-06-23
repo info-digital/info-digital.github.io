@@ -19,7 +19,7 @@ header {
   z-index : 10;
 }
 
-.logo img {
+.logo {
   width: 100px;
   margin-top: 20px;
 }
