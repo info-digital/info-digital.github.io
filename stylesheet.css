@@ -30,6 +30,10 @@ header {
   
 }
 
+.menu-icon {
+  display: none;
+}
+
 .header-right {
   float: right;
   margin-right: -25px;
