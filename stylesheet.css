@@ -22,7 +22,7 @@ header {
 
 .logo {
   width: 120px;
-  margin-top: 20px;
+  line-height: 65px;
 }
 
 .header-left {
@@ -37,16 +37,18 @@ header {
 .header-right li {
 	float: left;
 	list-style: none;
-	margin-left: 20px;
+	
 }
 
 .header-right li a {
+	line-height: 65px;
 	color: white;
 	text-decoration: none;
 	line-height: 10px;
  	display: block;
  	transition: all 0.5s;
  	font-size: 20px;
+	margin-left: 30px;
  	
 }
 
@@ -159,9 +161,6 @@ header {
 
 .contact-container {
  float: right;
- text-align: left;
- width: fit-container;
- list-style: none;
 }
 	
 .fa {
