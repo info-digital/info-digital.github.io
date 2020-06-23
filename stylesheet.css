@@ -127,12 +127,15 @@ header {
 }
 
 /* contact form - kontak */
-.contact-form section-title {
+.section-title {
   font-size: 15px;
   border-bottom: 2px solid #dee7ec;
   margin-top: 50px;
   text-align: center;
   margin: 0px 300px;
+}
+ .contact-form {
+  padding-top: 100px;
 }
 
 input, textarea {
