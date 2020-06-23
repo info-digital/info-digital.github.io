@@ -62,7 +62,7 @@ header {
   color: white;
   float: right;
   font-size: 25px;
-  padding: 210px 0;
+  padding: 21px 0;
   display: none;
 }
 
@@ -92,7 +92,7 @@ header {
 }
 
 .clear {
-  clear: left;
+  clear: both;
 }
 
 .profil-wrapper {
