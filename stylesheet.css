@@ -139,10 +139,8 @@ header {
   padding-bottom: 15px;
   margin-bottom: 50px;
   text-align: center;
- 
 }
 
-	
 input, textarea {
  padding: 20px;
  margin-bottom: 30px;
@@ -178,8 +176,7 @@ input, textarea {
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding: 40px;
-  text-align: center;
-	
+  text-align: center;	
 }
 
 .message {
@@ -217,5 +214,6 @@ footer {
 .footer-list li {
   padding-bottom: 20px;
   list-style: none;
+  text-align: left;
 }
 
