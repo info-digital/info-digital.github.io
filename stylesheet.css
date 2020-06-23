@@ -11,7 +11,7 @@ body {
 
 /*header*/
 header {
-  height: 165px;
+  height: 65px;
   width: 100%;
   background-color: rgb(29, 139, 139, 0.9);
   position : fixed;
@@ -20,13 +20,12 @@ header {
 }
 
 .logo {
-  width: 100px;
-  margin-top: 20px;
+  width: 250px;
+  margin-top: 10px;
 }
 
 .header-left {
   float: left;
-	width: 30%;
 }
 
 .header-right {
@@ -42,7 +41,7 @@ header {
 .header-right li a {
 	color: white;
 	text-decoration: none;
-	line-height: 32px;
+	line-height: 10px;
   	margin-left: 10px;
  	display: block;
  	transition: all 0.5s;
