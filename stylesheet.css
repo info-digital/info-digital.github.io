@@ -11,7 +11,7 @@ body {
 
 /*header*/
 header {
-  padding: 5% ;
+  padding: 10px 30px ;
   height: 65px;
   width: 100%;
   background-color: rgb(29, 139, 139, 0.9);
@@ -27,7 +27,6 @@ header {
 
 .header-left {
   float: left;
-  width: 25%
   
 }
 
