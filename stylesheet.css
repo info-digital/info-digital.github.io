@@ -134,8 +134,9 @@ header {
   margin-bottom: 50px;
 }
 
- .contact-form {
+.contact-form {
   padding-top: 100px;
+  text-align: center;
 }
 
 input, textarea {
@@ -150,7 +151,6 @@ input, textarea {
 .contact-submit {
   color: #889eab;
   background-color: #dee7ec;
-  text-align: center;
 }
 
 /* extra page - gabung */
