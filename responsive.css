@@ -62,7 +62,7 @@ footer {
   
 /*CSS Responsive - Footer */
   footer {
-  text-align: center;
-    width: 100%
+  width: 100%
+  display: block;
    }
   }
