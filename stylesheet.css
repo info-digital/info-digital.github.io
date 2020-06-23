@@ -20,7 +20,7 @@ header {
 }
 
 .logo {
-  width: 170px;
+  width: 130px;
   margin-top: 20px;
 }
 
@@ -132,6 +132,8 @@ header {
   clear: both;
   color: #44454f;
   padding: 10%;
+  height: 200px;
+  width: 50%;
 }
 
 .section-title {
