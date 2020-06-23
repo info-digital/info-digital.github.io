@@ -4,7 +4,6 @@ body {
 }
 
 .container {
-  max-width : 1170px;
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
@@ -12,6 +11,7 @@ body {
 
 /*header*/
 header {
+  padding: 10px 30px ;
   height: 65px;
   width: 100%;
   background-color: rgb(29, 139, 139, 0.9);
@@ -21,8 +21,8 @@ header {
 }
 
 .logo {
-  width: 120px;
-  margin-top: 20px;
+  width: 170px;
+ 
 }
 
 .header-left {
@@ -43,7 +43,7 @@ header {
 	color: white;
 	text-decoration: none;
 	line-height: 10px;
-  	margin-left: 20px;
+  	margin-left: 5px;
  	display: block;
  	transition: all 0.5s;
  	font-size: 20px;
@@ -53,14 +53,6 @@ header {
 .header-right a:hover {
   background-color: white;
   color: rgb(29, 139, 139);
-}
-
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
 }
 
 .top-wrapper {
@@ -141,16 +133,17 @@ header {
   clear: both;
   color: #44454f;
   padding: 10%;
+  width: fit-content;
 }
-
 .section-title {
   border-bottom: 2px solid #dee7ec;
   font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
   text-align: center;
- 
 }
+ 
+
 
 .contact-form {
   padding: 50px 40px;
@@ -159,6 +152,8 @@ header {
 
 .contact-container {
  float: right;
+ list-style: none;
+ text-align: left;
 }
 	
 .fa {
