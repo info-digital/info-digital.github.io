@@ -26,19 +26,13 @@ header {
 
 .header-left {
   float: left;
-	padding-top: 20px;
-  
-}
-
-.menu-icon {
-  display: none;
+  padding-top: 20px;
 }
 
 .header-right {
   float: right;
   margin-right: -25px;
 }
-
 
 .header-right a {
 	float: left;
@@ -48,8 +42,7 @@ header {
  	display: block;
  	transition: all 0.5s;
  	font-size: 20px;
-	margin-left: 50px;
- 	
+	margin-left: 50px;	
 }
 
 .menu-icon {
