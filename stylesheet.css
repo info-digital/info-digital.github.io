@@ -38,11 +38,12 @@ header {
 	float: left;
 	list-style: none;
 	margin-left: 20px;
+	line-height: 65px;
 }
 
 .header-right li a {
 	color: white;
-	line-height: 65px;
+	
 	text-decoration: none;
 	line-height: 10px;
  	display: block;
