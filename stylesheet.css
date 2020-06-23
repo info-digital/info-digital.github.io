@@ -37,7 +37,7 @@ header {
 .header-right li {
 	float: left;
 	list-style: none;
-	margin-left: 20px;
+	
 }
 
 .header-right li a {
@@ -47,6 +47,7 @@ header {
  	display: block;
  	transition: all 0.5s;
  	font-size: 20px;
+	margin-left: 30px;
  	
 }
 
