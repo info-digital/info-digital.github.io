@@ -21,7 +21,7 @@ header {
 
 .logo img {
   width: 120px;
-  margin-top: 5px;
+  margin-top: 20px;
 }
 
 .header-left {
@@ -36,7 +36,6 @@ header {
 .header-right li {
 	float: left;
 	list-style: none;
-	margin-left: 20px;
 }
 
 .header-right li a {
@@ -135,7 +134,7 @@ header {
   padding: 10%;
 }
 
-.contact h3 {
+.section-title {
   border-bottom: 2px solid #dee7ec;
   font-size: 28px;
   padding-bottom: 15px;
