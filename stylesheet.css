@@ -35,12 +35,6 @@ header {
   margin-right: -25px;
 }
 
-.header-right li {
-	float: left;
-	list-style: none;
-	margin-left: 20px;
-	
-}
 
 .header-right li a {
 	color: white;
