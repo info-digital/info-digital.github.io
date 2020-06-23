@@ -81,7 +81,7 @@ header {
 }
 
 .clear {
-  clear: left;
+  clear: both;
 }
 
 .profil-wrapper {
