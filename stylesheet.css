@@ -133,8 +133,10 @@ header {
   padding-bottom: 15px;
   margin-bottom: 50px;
 }
+
  .contact-form {
   padding-top: 100px;
+  text-align: center;
 }
 
 input, textarea {
@@ -144,13 +146,12 @@ input, textarea {
  width: 400px;
  font-size: 18px;
  border: 1px solid #dee7ec;
- text-align: center;
 }
 
 .contact-submit {
   color: #889eab;
   background-color: #dee7ec;
-  text-align: center;
+  
 }
 /* extra page - gabung */
 .btn {
