@@ -208,8 +208,8 @@ footer {
   background-color: #2f5167;
   color: #fff;
   height: 200px;
-  padding: 40px;
-  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
 
 .footer-logo {
@@ -225,6 +225,5 @@ footer {
 .footer-list li {
   padding-bottom: 10px;
   list-style: none;
-  text-align: left;
 }
 
