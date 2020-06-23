@@ -127,16 +127,29 @@ header {
 }
 
 /* contact form - kontak */
+.contact {
+  margin-bottom: 80px;
+  margin-top: 90px;
+  clear: both;
+  color: #44454f;
+  padding: 10%;
+}
+
 .section-title {
   border-bottom: 2px solid #dee7ec;
   font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
+ 
 }
 
 .contact-form {
   padding: 50px 40px;
+  float: left;
 }
+
+.contact-container {
+ float: right;
 
 input, textarea {
  padding: 20px;
