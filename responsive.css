@@ -51,9 +51,9 @@
   }
 
 /*CSS Responsive - Kontak Form*/
-input, textarea {
-width: 60%;
-}
+.contact-form {
+  width: 100%
+  }
   
 /*CSS Responsive - Footer */
 
