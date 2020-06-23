@@ -1,18 +1,6 @@
-* {
-  box-sizing: border-box;
-}
-
 body {
   margin: 0;
   font-family: "Lucida Grande";
-}
-
-a {
-  text-decoration: none;
-}
-
-.clear {
-  clear: left;
 }
 
 .container {
@@ -87,16 +75,15 @@ header {
   font-size: 25px;
 }
 
-/*CSS menu-icon*/
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
+/* content - profil anggota */
+* {
+  box-sizing: border-box;
 }
 
-/* content - profil anggota */
+.clear {
+  clear: left;
+}
+
 .profil-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
