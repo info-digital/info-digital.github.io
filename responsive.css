@@ -14,8 +14,15 @@
 }
 
 /*CSS Responsive - Kontak Form*/
+input, textarea {
+ width: 50%;
+}
 
 /*CSS Responsive - Footer */
+footer {
+  text-align: center;
+  width: 50%;
+}
 
 /* Untuk Smartphone */
 /*CSS Responsive - Header*/
@@ -50,7 +57,7 @@
 
 /*CSS Responsive - Kontak Form*/
 input, textarea {
- width: 90%;
+ width: 100%;
 }
   
 /*CSS Responsive - Footer */
