@@ -198,6 +198,7 @@ footer {
 .footer-logo {
   font-size: 32px;
   float: left;
+  padding: 60px
 }
 
 .footer-list {
