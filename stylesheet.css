@@ -11,7 +11,7 @@ body {
 
 /*header*/
 header {
-  height: 65px;
+  height: 165px;
   width: 100%;
   background-color: rgb(29, 139, 139, 0.9);
   position : fixed;
@@ -19,18 +19,19 @@ header {
   z-index : 10;
 }
 
-.logo img {
+.logo {
   width: 100px;
   margin-top: 20px;
 }
 
 .header-left {
   float: left;
+	width: 30%;
 }
 
 .header-right {
   float: right;
-  margin-right : -25px;
+  margin-right : 10px;
 }
 
 .header-right li {
@@ -41,7 +42,7 @@ header {
 .header-right li a {
 	color: white;
 	text-decoration: none;
-	line-height: 65px;
+	line-height: 32px;
   	margin-left: 10px;
  	display: block;
  	transition: all 0.5s;
@@ -80,7 +81,7 @@ header {
 }
 
 .clear {
-  clear: both;
+  clear: left;
 }
 
 .profil-wrapper {
@@ -134,7 +135,7 @@ header {
   padding: 10%;
 }
 
-.contact h4 {
+.section-title {
   border-bottom: 2px solid #dee7ec;
   font-size: 28px;
   padding-bottom: 15px;
@@ -153,9 +154,7 @@ header {
 }
 	
 .fa {
- margin-right: 20px;
- list-style: none;
- text-align: left;
+ margin-right: 10px;
 }
 	
 input, textarea {
