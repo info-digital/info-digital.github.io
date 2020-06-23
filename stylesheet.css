@@ -190,7 +190,7 @@ input, textarea {
 footer {
   background-color: #2f5167;
   color: #fff;
-  height: 120px;
+  height: 200px;
   padding: 40px;
 }
 
@@ -204,7 +204,8 @@ footer {
 }
 
 .footer-list li {
-  padding-bottom: 8px;
+  padding: 10px;
   list-style: none;
+  text-align: left;
 }
 
