@@ -150,6 +150,7 @@ input, textarea {
 .contact-submit {
   color: #889eab;
   background-color: #dee7ec;
+  display: inline-block;
 }
 
 /* extra page - gabung */
