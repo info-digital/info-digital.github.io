@@ -35,14 +35,12 @@ header {
 }
 
 .header-right a {
-	float: left;
-	color: white;
-	text-decoration: none;
-	line-height: 65px;
- 	display: block;
- 	transition: all 0.5s;
- 	font-size: 20px;
-	margin-left: 50px;	
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
+  transition: all 0.5s;	
 }
 
 .menu-icon {
