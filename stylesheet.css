@@ -179,6 +179,7 @@ input, textarea {
   background-color: #5dca88;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
+  margin-bottom : 50px ;
 }
 
 .message:active {
