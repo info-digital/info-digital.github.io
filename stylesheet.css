@@ -147,10 +147,13 @@ input, textarea {
  border: 1px solid #dee7ec;
 }
 
-.contact-submit {
-  color: #889eab;
-  background-color: #dee7ec;
-  display: inline-block;
+.btn-submit {
+  background-color: #09cca4;
+  border: 1px solid #09cca4;
+  color: white;
+  cursor: pointer;
+  padding: 15px 40px;
+  border-radius: 4px;
 }
 
 /* extra page - gabung */
@@ -179,7 +182,7 @@ input, textarea {
   background-color: #5dca88;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
-  margin-bottom : 50px ;
+  margin-bottom : 100px ;
 }
 
 .message:active {
