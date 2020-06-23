@@ -44,10 +44,11 @@ header {
  	display: block;
  	transition: all 0.5s;
  	font-size: 20px;
+	margin-left: 10px;
  	
 }
 
-.menu-icon {
+span .menu-icon {
   color: white;
   float: right;
   font-size: 25px;
