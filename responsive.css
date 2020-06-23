@@ -61,8 +61,10 @@ footer {
   }
   
 /*CSS Responsive - Footer */
-  footer {
-  width: 100%
-  display: block;
+  .footer logo{
+  width: 100%;
    }
+  .footer-list li {
+    width:100%;
+  }  
   }
