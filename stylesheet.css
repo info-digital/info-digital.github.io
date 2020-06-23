@@ -205,5 +205,6 @@ footer {
 
 .footer-list li {
   padding-bottom: 20px;
+  list-style: none;
 }
 
