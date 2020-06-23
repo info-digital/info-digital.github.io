@@ -169,8 +169,9 @@ input, textarea {
 
 .message-wrapper {
   border-bottom: 1px solid #eee;
-  padding-bottom: 80px;
+  padding: 100px 80px;
   text-align: center;
+	
 }
 
 .message {
@@ -197,7 +198,6 @@ footer {
 .footer-logo {
   font-size: 32px;
   float: left;
-  pedding: 60px;
 }
 
 .footer-list {
