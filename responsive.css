@@ -1,38 +1,32 @@
 /* Untuk Tablet */
+@media all and (max-width: 1000px ) {
+
 /*CSS Responsive - Header*/
+ .top-wrapper h1 {
+    font-size : 32px;
+  }
 
 /*CSS Responsive - profil anggota */
-@media all and (max-width: 1000px ) {
   .anggota {
     width: 50%;
     margin-bottom: 50px;
   }
-  
-  .top-wrapper h1 {
-    font-size : 32px;
-  }
-}
 
 /*CSS Responsive - Kontak Form*/
- input, textarea {
+  input, textarea {
   width: 100%; 
   }
 
 /*CSS Responsive - Footer */
-footer {
+ footer {
   text-align: center;
-    width: 50%
-   }
+   width: 100%;
+  }
+
 
 /* Untuk Smartphone */
-/*CSS Responsive - Header*/
-
-/*CSS Responsive - profil anggota */
 @media all and (max-width: 670px ) {
-  .anggota {
-    width: 100%;
-  }
-  
+/*CSS Responsive - Header*/
   .top-wrapper {
     text-align : left;
   }
@@ -43,7 +37,7 @@ footer {
   
   .menu-icon {
     display: block;
-}
+  }
   
   .top-wrapper h1 {
     font-size: 24px;
@@ -55,16 +49,23 @@ footer {
     line-height: 20px;
   }
 
+/*CSS Responsive - profil anggota */
+
+  .anggota {
+    width: 100%;
+  }
+
 /*CSS Responsive - Kontak Form*/
- input, textarea {
+  input, textarea {
   width: 100%; 
   }
   
 /*CSS Responsive - Footer */
-  .footer logo{
-  width: 100%;
+  .footer-logo {
+   width: 100%;
    }
+
   .footer-list li {
     width:100%;
-  }  
   }
+ }
