@@ -22,7 +22,7 @@ header {
 
 .logo {
   width: 120px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .header-left {
@@ -38,7 +38,7 @@ header {
 	float: left;
 	list-style: none;
 	margin-left: 20px;
-	line-height: 65px;
+	margin-top: 20px;
 }
 
 .header-right li a {
