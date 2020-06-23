@@ -128,11 +128,10 @@ header {
 
 /* contact form - kontak */
 .section-title {
-  font-size: 15px;
+  font-size: 28px;
   border-bottom: 2px solid #dee7ec;
-  margin-top: 50px;
-  text-align: center;
-  margin: 0px 300px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
 }
  .contact-form {
   padding-top: 100px;
