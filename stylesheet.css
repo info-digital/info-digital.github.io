@@ -136,14 +136,9 @@ header {
   width: fit-content;
 }
 
-.contact h3 {
-  border-bottom: 2px solid #dee7ec;
-  font-size: 28px;
-  padding-bottom: 15px;
-  margin-bottom: 50px;
-  text-align: center;
+
  
-}
+
 
 .contact-form {
   padding: 50px 40px;
