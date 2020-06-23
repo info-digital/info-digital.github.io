@@ -42,6 +42,7 @@ header {
 
 .header-right li a {
 	color: white;
+	line-height: 65px;
 	text-decoration: none;
 	line-height: 10px;
  	display: block;
