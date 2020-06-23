@@ -2,7 +2,7 @@
 /*CSS Responsive - Header*/
 
 /*CSS Responsive - profil anggota */
-@media all and (max-width: 1000px) {
+@media (max-width: 1000px ) {
   .anggota {
     width: 50%;
     margin-bottom: 50px;
@@ -23,7 +23,7 @@
 /*CSS Responsive - Header*/
 
 /*CSS Responsive - profil anggota */
-@media all and (max-width: 670px) {
+@media (max-width: 670px ) {
   .anggota {
     width: 100%;
   }
@@ -51,7 +51,9 @@
   }
 
 /*CSS Responsive - Kontak Form*/
-
+input, textarea {
+width: 100%;
+}
   
 /*CSS Responsive - Footer */
 
