@@ -23,7 +23,6 @@
    width: 100%;
   }
 
-
 /* Untuk Smartphone */
 @media all and (max-width: 670px ) {
 /*CSS Responsive - Header*/
@@ -61,11 +60,7 @@
   }
   
 /*CSS Responsive - Footer */
-  .footer-logo {
-   width: 100%;
-   }
-
-  .footer-list li {
-    width:100%;
+  .footer {
+   text-align: center;
   }
  }
