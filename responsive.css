@@ -51,9 +51,12 @@
   }
 
 /*CSS Responsive - Kontak Form*/
-.contact-form {
-  width: 100%
-  }
-  
+ input, textarea {
+  width: 100%; 
+   
 /*CSS Responsive - Footer */
-
+  footer {
+   text-align: center;
+  width: 100%
+   }
+  }
