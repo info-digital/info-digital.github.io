@@ -62,5 +62,9 @@
   .footer {
    text-align: center;
   }
+  
+  .footer-list li {
+   float: center;
+  }
 
 }
