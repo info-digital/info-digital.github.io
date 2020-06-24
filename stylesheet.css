@@ -47,8 +47,7 @@ header {
   color: white;
   float: right;
   font-size: 25px;
-  padding: 25px 0 25px 0;
-  position: relative;
+  padding: 25px 0 10px 0;
   display: none;
 }
 
