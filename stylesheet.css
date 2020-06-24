@@ -47,6 +47,7 @@ header {
   color: white;
   float: right;
   font-size: 25px;
+  padding-top: 20px;
   position: relative;
   display: none;
 }
@@ -197,8 +198,6 @@ input, textarea {
   color: #fff;
   height: 200px;
   padding: 40px;
-  margin: 0;
-
 }
 
 .footer-logo {
