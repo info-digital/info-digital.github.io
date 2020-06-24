@@ -50,7 +50,8 @@ header {
   color: white;
   float: right;
   font-size: 25px;
-  padding: 21px;
+  padding: 10px;
+  margin: 20px;
   position: relative;
   display: none;
 }
